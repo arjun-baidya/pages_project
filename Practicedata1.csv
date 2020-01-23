@@ -1,0 +1,10 @@
+day,temperature,windspeed,event
+1/1/2019,32,6,Rain
+1/4/2019,-999,9,Sunny
+1/5/2019,28,7,Snow
+1/6/2019,23,7,No Event
+1/7/2019,32,-66,Rain
+1/8/2019,-88,88,Sunny
+1/9/2019,-87,-99,No Event
+1/10/2019,34,8,Cloudy
+1/11/2019,40,12,Sunny
